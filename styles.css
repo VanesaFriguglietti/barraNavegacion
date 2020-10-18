@@ -57,7 +57,7 @@ li {
 
 
    
-    .navbar-top {
+    .navegacionSuperior {
         background: var(--dark);
     }
 
@@ -136,5 +136,19 @@ li {
         width: 200px;
         margin-right: 3rem;
     }
+/*empiezo a dar formato al listado de mujer*/
+ 
+.listado{
+    padding: 10px 20px 10px 50px;
+    margin-top:30px;
+    margin-bottom: 30px; 
 
-    
+}
+ .card-title {
+   
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+
+
